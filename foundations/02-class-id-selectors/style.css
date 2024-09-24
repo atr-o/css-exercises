@@ -1,0 +1,21 @@
+.odd {
+    background-color: rgb(241, 128, 128);
+    font-size: 20px;
+}
+
+.odd.number-3 {
+    font-size: 32px
+}
+
+#number-2 {
+    color: hsl(216, 100%, 30%);
+    font-size: 42px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#number-4 {
+    background-color: rgb(132, 201, 132);
+    font-size: 24px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
